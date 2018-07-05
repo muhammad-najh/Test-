@@ -8,7 +8,7 @@ public class Animal {
 
     public String getName() {
         return name;
-    }
+    }/123456789012345678
 
     public void setName(String name) {
         this.name = name;
